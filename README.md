@@ -6,3 +6,4 @@ Esse projeto foi realizado com base no diagrama de classe do iphone, com as segu
 - Repodutor Musicial: tocar, pausar, selecionarMusica
 - Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+![UML](https://github.com/Fenixherm/iphone-poo/blob/main/iphone-UML.png)
